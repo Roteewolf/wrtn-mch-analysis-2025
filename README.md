@@ -14,15 +14,20 @@ The research focused on the top-performing chatbots on the Crack (formerly Wrtn)
 
 ## Included Files
 
-| Filename | Description |
-|----------|-------------|
+| Filename / Folder | Description |
+|-------------------|-------------|
 | wrtn_mch_analysis_images_202505.zip | 90 screenshots used in the investigation |
+| crack_jp_image_samples | Screenshots and sample data from the Crack platform (Japanese server), demonstrating experimental use of MCH in real-world character chatbots |
 | report_kr.md | Full report in Korean, including analysis and implications |
+
+## Supplement: Crack JP Server Image Samples
+
+The `crack_jp_image_samples` folder contains user-submitted screenshots and evidence of MCH implementation observed on the Japanese server of the Crack platform. These samples are intended as supplementary documentation to support claims of MCH's regional expansion and early adoption outside of Korea.
 
 ## Summary of Findings
 
 | Category | Bots Analyzed | MCH Used | Not Used | Usage Rate |
-|----------|----------------|----------|----------|-------------|
+|----------|--------------|----------|----------|------------|
 | Safe-rated bots | 30 | 25 | 5 | 83.3% |
 | Unsafe-inclusive bots | 24 | 24 | 0 | 100% |
 
